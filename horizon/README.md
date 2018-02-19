@@ -1,6 +1,6 @@
 Horizon
 =======
-Docker container for the openstack horizon and monasca-ui plugin
+Docker container for the openstack horizon with monasca-ui plugin
 
 Configuration
 -------------

@@ -53,7 +53,7 @@ services:
       - "35357:35357"
     networks:
       - network_keystone
- 
+
   horizon:
     hostname: horizon-host
     image: fest/horizon:${HORIZON_VERSION}
